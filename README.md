@@ -5,7 +5,7 @@ A dockerized version of [hessu's aprsc](http://aprs-is.net/) APRS-IS server. [AP
 ![APRSC Screenshot](.images/aprsc-screenshot.png)
 
 ## Install
-[Docker and Docker Compose need to be installed.](https://docs.docker.com/engine/install/debian/)
+[Docker and Docker Compose need to be installed.](https://docs.docker.com/engine/install/raspbian/)
 ```bash
 # clone the repo
 git clone https://github.com/brannondorsey/aprsc-docker
